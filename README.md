@@ -55,5 +55,5 @@ This repository contains the source code and resources for the "Menopause: ML An
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/menopause-ml-analysis.git
-   cd menopause-ml-analysis
+   git clone https://github.com/katharvaa/Menopause-ML-study.git
+   cd Menopause-ML-study
